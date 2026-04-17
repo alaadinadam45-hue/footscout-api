@@ -1,0 +1,1 @@
+# footscout-api
